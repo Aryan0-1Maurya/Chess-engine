@@ -1,30 +1,24 @@
-# Tank Battle Game
+# Chess AI vs You
 
-Engage in epic tank battles with the Tank Battle Game! 🎮🚀
+Embark on a strategic journey with Chess AI vs You, a challenging chess game where you face off against a computer opponent! ♔♕♖♗♘♙🆚🤖🕹️
 
 ## Play the Game
 
-[Play Now](https://aryan0-1maurya.github.io/tank-battle-game/) 🕹️
+[Play Now]( https://aryan0-1maurya.github.io/Chess-engine/) 🕹️
 
 ## About the Game
 
-📜 The Tank Battle Game is an action-packed game where you take control of a powerful tank and battle against opponents in a dynamic arena.
+📜 Chess AI vs You brings the timeless game of chess to your screen with a twist — challenge a computer AI opponent of varying difficulty levels. Test your strategic prowess and enjoy the classic game in a digital format.
 
 ## Features
 
-- 🚀 Command a powerful tank in intense battles.
-- 🔫 Shoot down enemies and conquer the battlefield.
-- 🏆 Compete for high scores and achievements.
+- ♔♕♖♗♘♙ Engage in classic chess gameplay.
+- 🆚 Challenge a computer AI with adjustable difficulty.
+- 🌐 Enjoy an interactive and educational chess experience.
 
 ## How to Play
 
-🕹️ Use the controls to maneuver your tank, aim, and shoot at enemies. Strategize to defeat opponents and dominate the battlefield!
-
-## Screenshots
-
-📸 [Gameplay 1]
-📸 [Gameplay 2]
-📸 [Gameplay 3]
+🕹️ Use standard chess moves to outmaneuver the AI opponent. Adjust the difficulty level to match your skill, learn new strategies, and become a chess grandmaster!
 
 ## Contributing
 
